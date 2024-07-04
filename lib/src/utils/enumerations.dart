@@ -8,6 +8,12 @@ enum CardType {
   discover,
   elo,
   hipercard,
+  sorocred,
+  cabal,
+  credz,
+  banescard,
+  hiper,
+  diners
 }
 
 /// The type of floating event.
